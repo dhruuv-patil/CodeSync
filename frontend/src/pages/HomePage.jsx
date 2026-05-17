@@ -53,30 +53,7 @@ function HomePage() {
             </h1>
           </Link>
 
-          {/* Nav Links */}
-          <div className="hidden md:flex items-center gap-2">
-
-            <a
-              href="#features"
-              className="px-5 py-2 rounded-xl text-[13px] font-medium transition-all duration-200 border border-transparent text-zinc-400 hover:text-white hover:bg-white/[0.03]"
-            >
-              Features
-            </a>
-
-            <a
-              href="#workspace"
-              className="px-5 py-2 rounded-xl text-[13px] font-medium transition-all duration-200 border border-transparent text-zinc-400 hover:text-white hover:bg-white/[0.03]"
-            >
-              Workspace
-            </a>
-
-            <a
-              href="#dashboard"
-              className="px-5 py-2 rounded-xl text-[13px] font-medium transition-all duration-200 border border-transparent text-zinc-400 hover:text-white hover:bg-white/[0.03]"
-            >
-              Dashboard
-            </a>
-          </div>
+          
 
           {/* Right Side */}
           <div className="flex items-center gap-3 ml-4">
@@ -95,7 +72,7 @@ function HomePage() {
       </nav>
 
       {/* HERO */}
-      <section className="relative z-10 max-w-6xl mx-auto px-4 pt-28 pb-16">
+      <section className="relative z-10 max-w-6xl mx-auto px-4 pt-23 pb-16">
 
         <div className="grid lg:grid-cols-[1fr_1fr] gap-5 items-stretch">
 
