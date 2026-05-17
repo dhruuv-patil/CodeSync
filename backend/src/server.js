@@ -25,20 +25,9 @@ app.use((req, res, next) => {
   console.log("REQUEST:", req.method, req.url);
   next();
 });
-const allowedOrigins = [
-  "http://localhost:5173",
-  "https://code-sync-kappa-ten.vercel.app",
-];
-
 app.use(
   cors({
-    origin: function (origin, callback) {
-      if (!origin || allowedOrigins.includes(origin)) {
-        callback(null, true);
-      } else {
-        callback(new Error("Not allowed by CORS"));
-      }
-    },
+    origin: true,
     credentials: true,
   })
 );
