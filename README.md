@@ -22,16 +22,16 @@ Practice coding interviews, collaborate in realtime, and solve problems together
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🚀 Realtime Collaboration
+## Realtime Collaboration
 
 * Live collaborative code editor
 * Instant code synchronization
 * Multi-user coding sessions
 * Shared interview rooms
 
-## 💻 Powerful Coding Workspace
+## Powerful Coding Workspace
 
 * Monaco Editor integration
 * Multi-language support
@@ -39,14 +39,14 @@ Practice coding interviews, collaborate in realtime, and solve problems together
 * Professional coding UI
 * Live session environment
 
-## 👥 Interview Experience
+## Interview Experience
 
 * Technical interview sessions
 * Pair programming support
 * Realtime collaboration workflow
 * Interactive coding practice
 
-## 🎨 Modern UI/UX
+## Modern UI/UX
 
 * Premium dark interface
 * Dashboard-inspired components
@@ -56,7 +56,7 @@ Practice coding interviews, collaborate in realtime, and solve problems together
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -82,12 +82,12 @@ Practice coding interviews, collaborate in realtime, and solve problems together
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/codesync.git
+git clone https://github.com/dhruuv-patil/CodeSync.git
 ```
 
 ---
@@ -132,7 +132,7 @@ CLERK_SECRET_KEY=
 
 ---
 
-# ▶️ Run Locally
+# Run Locally
 
 ## Frontend
 
@@ -148,7 +148,7 @@ npm start
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```txt
 codesync/
@@ -171,7 +171,7 @@ codesync/
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 * Video calling integration
 * AI interview assistant
@@ -183,7 +183,7 @@ codesync/
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -191,7 +191,7 @@ Fork the repository and create a pull request.
 
 ---
 
-# 👨‍💻 Developer
+# Developer
 
 ## Dhruv Patil
 
@@ -199,7 +199,7 @@ Building modern developer tools and realtime collaboration platforms.
 
 ---
 
-# ⭐ Support
+# Support
 
 If you like this project:
 
@@ -213,4 +213,4 @@ If you like this project:
 
 ## ⚡ Built For Developers
 
-Realtime collaboration. Mo
+Realtime collaboration. 
